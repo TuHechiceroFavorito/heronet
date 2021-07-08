@@ -4,3 +4,4 @@ print('yo Mizter Why-it!')
 asdasd
 asdasd2
 im_the_master_of_masters = True
+print(im_the_master_of_masters)
